@@ -1,3 +1,10 @@
+name: Build and Deploy to Minikube
+
+on:
+  push:
+    branches:
+      - main
+
 jobs:
   build-deploy:
     runs-on: self-hosted
@@ -6,10 +13,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Allow PowerShell script execution
+    - name: Set PowerShell execution policy
       shell: powershell
-      run: |
-        Set-ExecutionPolicy RemoteSigned -Scope Process -Force
+      run: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process -Force
 
     - name: Set up Docker to use Minikube's environment
       shell: powershell
