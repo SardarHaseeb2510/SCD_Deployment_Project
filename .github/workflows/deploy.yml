@@ -17,10 +17,11 @@ jobs:
       shell: powershell
       run: Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process -Force
 
-    - name: Set up Docker to use Minikube's environment
+    - name: Set Minikube Docker environment
       shell: powershell
       run: |
-        & minikube -p minikube docker-env --shell=powershell | Invoke-Expression
+        Invoke-Expression (& minikube -p minikube docker-env --shell=powershell)
+
 
     - name: Build frontend Docker image
       run: docker build -t haseebsajid/frontend:latest ./frontend
