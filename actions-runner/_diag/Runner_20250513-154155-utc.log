@@ -1,0 +1,137 @@
+[2025-05-13 15:41:55Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-05-13 15:41:55Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:55Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:55Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials'
+[2025-05-13 15:41:56Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:56Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:56Z INFO HostContext] Well known config file 'Runner': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.runner'
+[2025-05-13 15:41:57Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-05-13 15:41:57Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.26100.
+[2025-05-13 15:41:57Z INFO Listener] Version: 2.323.0
+[2025-05-13 15:41:57Z INFO Listener] Commit: d8b82f44a9ec0258904d5869ae683c31d5aac299
+[2025-05-13 15:41:57Z INFO Listener] Culture: en-PK
+[2025-05-13 15:41:57Z INFO Listener] UI Culture: en-GB
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:57Z INFO Listener] Validating directory permissions for: 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:57Z INFO CommandLineParser] Parse
+[2025-05-13 15:41:57Z INFO CommandLineParser] Parsing 1 args
+[2025-05-13 15:41:57Z INFO CommandLineParser] parsing argument
+[2025-05-13 15:41:57Z INFO CommandLineParser] HasArgs: False
+[2025-05-13 15:41:57Z INFO CommandLineParser] Adding Command: run
+[2025-05-13 15:41:57Z INFO Listener] Arguments parsed
+[2025-05-13 15:41:57Z INFO Runner] ExecuteCommand
+[2025-05-13 15:41:57Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin\Runner.Listener.dll
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:57Z INFO ConfigurationStore] binPath: C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:57Z INFO ConfigurationStore] RootFolder: C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:57Z INFO HostContext] Well known config file 'Runner': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.runner'
+[2025-05-13 15:41:57Z INFO ConfigurationStore] ConfigFilePath: C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.runner
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:57Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.runner_migrated'
+[2025-05-13 15:41:57Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.runner_migrated
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:57Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials'
+[2025-05-13 15:41:57Z INFO ConfigurationStore] CredFilePath: C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:57Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials_migrated'
+[2025-05-13 15:41:57Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials_migrated
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:57Z INFO HostContext] Well known config file 'Service': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.service'
+[2025-05-13 15:41:57Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.service
+[2025-05-13 15:41:57Z INFO CommandSettings] Flag 'help': 'False'
+[2025-05-13 15:41:57Z INFO CommandSettings] Flag 'version': 'False'
+[2025-05-13 15:41:57Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-05-13 15:41:57Z INFO CommandSettings] Flag 'check': 'False'
+[2025-05-13 15:41:57Z INFO CommandSettings] Command 'configure': 'False'
+[2025-05-13 15:41:57Z INFO CommandSettings] Command 'remove': 'False'
+[2025-05-13 15:41:57Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-05-13 15:41:57Z INFO ConfigurationManager] LoadSettings
+[2025-05-13 15:41:57Z INFO ConfigurationStore] IsConfigured()
+[2025-05-13 15:41:57Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-13 15:41:57Z INFO ConfigurationManager] Is configured: True
+[2025-05-13 15:41:57Z INFO ConfigurationStore] Read setting file: 320 chars
+[2025-05-13 15:41:57Z INFO ConfigurationManager] Settings Loaded
+[2025-05-13 15:41:57Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-05-13 15:41:57Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-05-13 15:41:57Z INFO CommandSettings] Command 'run': 'True'
+[2025-05-13 15:41:57Z INFO ConfigurationStore] IsConfigured()
+[2025-05-13 15:41:57Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-13 15:41:57Z INFO ConfigurationManager] Is configured: True
+[2025-05-13 15:41:57Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-05-13 15:41:57Z INFO Runner] Set runner startup type - Manual
+[2025-05-13 15:41:57Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-13 15:41:57Z INFO CommandSettings] Flag 'once': 'False'
+[2025-05-13 15:41:57Z INFO Runner] RunAsync
+[2025-05-13 15:41:57Z INFO ConfigurationManager] LoadSettings
+[2025-05-13 15:41:57Z INFO ConfigurationStore] IsConfigured()
+[2025-05-13 15:41:57Z INFO ConfigurationStore] IsConfigured: True
+[2025-05-13 15:41:57Z INFO ConfigurationManager] Is configured: True
+[2025-05-13 15:41:57Z INFO ConfigurationManager] Settings Loaded
+[2025-05-13 15:41:57Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "HASEEB",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/wvFvMMkkKqiEfVrT1HQaZTIOMU7vX7RBdl9IdT54N7cO33rBUL/",
+  "GitHubUrl": "https://github.com/SardarHaseeb2510/SCD_Deployment_Project",
+  "WorkFolder": "_work"
+}
+[2025-05-13 15:41:57Z INFO MessageListener] Loading Credentials
+[2025-05-13 15:41:57Z INFO ConfigurationStore] HasCredentials()
+[2025-05-13 15:41:57Z INFO ConfigurationStore] stored True
+[2025-05-13 15:41:57Z INFO CredentialManager] GetCredentialProvider
+[2025-05-13 15:41:57Z INFO CredentialManager] Creating type OAuth
+[2025-05-13 15:41:57Z INFO CredentialManager] Creating credential type: OAuth
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:41:57Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:41:57Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials_rsaparams'
+[2025-05-13 15:41:57Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials_rsaparams
+[2025-05-13 15:41:58Z INFO MessageListener] Attempt to create session.
+[2025-05-13 15:41:58Z INFO MessageListener] Connecting to the Runner Server...
+[2025-05-13 15:41:58Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 15:41:58Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-05-13 15:41:58Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 15:41:59Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 15:41:59Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 15:41:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 15:41:59Z INFO RunnerServer] EstablishVssConnection
+[2025-05-13 15:41:59Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-05-13 15:41:59Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-05-13 15:42:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 15:42:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 15:42:00Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-05-13 15:42:00Z INFO MessageListener] VssConnection created
+[2025-05-13 15:42:00Z INFO Terminal] WRITE LINE: 
+[2025-05-13 15:42:00Z INFO Terminal] WRITE LINE: 
+[2025-05-13 15:42:00Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials_rsaparams
+[2025-05-13 15:42:00Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials_rsaparams
+[2025-05-13 15:42:02Z ERR  GitHubActionsService] POST request to https://vstoken.actions.githubusercontent.com/_apis/oauth2/token/8a2eb268-edbe-48bb-8ffa-26c70ab8544c failed. HTTP Status: BadRequest, AFD Ref: Ref A: 5008C42B8F38458CA5BD576C021593E4 Ref B: SIN221080715017 Ref C: 2025-05-13T15:42:03Z
+[2025-05-13 15:42:02Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-13 15:42:02Z ERR  MessageListener] Catch exception during create session.
+[2025-05-13 15:42:02Z ERR  MessageListener] GitHub.Services.OAuth.VssOAuthTokenRequestException: Registration was not found or is not medium trust. ClientType: 
+   at GitHub.Services.OAuth.VssOAuthTokenProvider.OnGetTokenAsync(IssuedToken failedToken, CancellationToken cancellationToken)
+   at GitHub.Services.Common.IssuedTokenProvider.GetTokenOperation.GetTokenAsync(VssTraceActivity traceActivity)
+   at GitHub.Services.Common.IssuedTokenProvider.GetTokenAsync(IssuedToken failedToken, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-05-13 15:42:02Z ERR  MessageListener] Test oauth app registration.
+[2025-05-13 15:42:02Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials_rsaparams
+[2025-05-13 15:42:02Z ERR  GitHubActionsService] POST request to https://vstoken.actions.githubusercontent.com/_apis/oauth2/token/8a2eb268-edbe-48bb-8ffa-26c70ab8544c failed. HTTP Status: BadRequest, AFD Ref: Ref A: 0F0E7AB5C4184D8192F4FD225A9AE595 Ref B: SIN221080716007 Ref C: 2025-05-13T15:42:04Z
+[2025-05-13 15:42:02Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-05-13 15:42:02Z INFO MessageListener] Non-retriable exception: Registration was not found or is not medium trust. ClientType: 
+[2025-05-13 15:42:02Z ERR  Terminal] WRITE ERROR: Failed to create session. Registration was not found or is not medium trust. ClientType: 
+[2025-05-13 15:42:02Z INFO Listener] Runner execution has finished with return code 1

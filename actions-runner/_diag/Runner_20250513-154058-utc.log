@@ -1,0 +1,4 @@
+[2025-05-13 15:40:58Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-05-13 15:40:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\bin'
+[2025-05-13 15:40:58Z INFO HostContext] Well known directory 'Root': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner'
+[2025-05-13 15:40:58Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\hasee\OneDrive\Desktop\University\SCD\SCD_P\app\actions-runner\.credentials'
