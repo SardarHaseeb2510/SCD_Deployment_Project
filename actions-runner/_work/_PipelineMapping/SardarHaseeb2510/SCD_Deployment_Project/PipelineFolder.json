@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "SardarHaseeb2510/SCD_Deployment_Project",
+  "pipelineDirectory": "SCD_Deployment_Project",
+  "workspaceDirectory": "SCD_Deployment_Project\\SCD_Deployment_Project",
+  "repositories": {
+    "SardarHaseeb2510/SCD_Deployment_Project": {
+      "repositoryPath": "SCD_Deployment_Project\\SCD_Deployment_Project",
+      "lastRunOn": "05/13/2025 17:29:09 +05:00"
+    }
+  },
+  "lastRunOn": "05/13/2025 17:30:21 +05:00"
+}

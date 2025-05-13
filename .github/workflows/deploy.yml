@@ -16,7 +16,7 @@ jobs:
     - name: Set up Docker to use Minikube's environment
       shell: powershell
       run: |
-        & minikube -p minikube docker-env --shell=powershell | Invoke-Expression
+        & minikube -p minikube docker-env --shell=powershell | Invoke-Expression $envScript
 
     - name: Build frontend Docker image
       run: docker build -t haseebsajid/frontend:latest ./frontend
