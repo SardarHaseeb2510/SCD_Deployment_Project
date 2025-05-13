@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
+
 
 const Login = () => {
   const [email, setEmail] = useState("");
@@ -128,12 +130,12 @@ const Login = () => {
         <div className="mt-6 text-center">
           <p className="text-gray-600 text-sm">
             Don't have an account?{" "}
-            <a
-              href="/signup"
-              className="text-purple-600 hover:text-purple-700 transition duration-300"
-            >
-              Sign up
-            </a>
+             <Link to="/signup">
+                        <button className="text-purple-600 hover:text-purple-700 transition duration-300">
+                          Sign up
+                        </button>
+                      </Link>
+           
           </p>
         </div>
       </div>

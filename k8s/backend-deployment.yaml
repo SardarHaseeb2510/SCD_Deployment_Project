@@ -1,0 +1,30 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: event-verse-backend
+  namespace: event-verse
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: event-verse-backend
+  template:
+    metadata:
+      labels:
+        app: event-verse-backend
+    spec:
+      containers:
+        - name: event-verse-backend
+          image: haseebsajid/backend:latest
+          ports:
+            - containerPort: 5000
+          env:
+            - name: MONGO_URI
+              value: "mongodb://mongo:27017/SCD_Project_DB" 
+          resources:
+            limits:
+              cpu: "500m"
+              memory: "512Mi"
+            requests:
+              cpu: "200m"
+              memory: "256Mi"

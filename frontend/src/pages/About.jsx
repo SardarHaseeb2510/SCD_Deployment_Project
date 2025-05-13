@@ -167,12 +167,8 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {/* Team Member 1 */}
             <div className="bg-gray-800 p-6 rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition transform duration-300 text-center">
-              <img
-                src="../images/abdullah.png"
-                alt="Team Member"
-                className="rounded-full w-32 h-32 mx-auto mb-4"
-              />
-              <h4 className="text-2xl font-bold">Abdullah Daoud</h4>
+              
+              <h4 className="text-2xl font-bold">HASEEB SAJID</h4>
               <p className="text-yellow-300">Lead Developer</p>
               <p className="mt-2">
                 Responsible for crafting seamless attendee experiences and
@@ -181,12 +177,8 @@ const About = () => {
             </div>
             {/* Team Member 2 */}
             <div className="bg-gray-800 p-6 rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition transform duration-300 text-center">
-              <img
-                src="../images/rounded 1.jpeg"
-                alt="Team Member"
-                className="rounded-full w-32 h-32 mx-auto mb-4"
-              />
-              <h4 className="text-2xl font-bold">Usman Ali</h4>
+              
+              <h4 className="text-2xl font-bold">Danish Rafiq</h4>
               <p className="text-yellow-300">Organizer Specialist</p>
               <p className="mt-2">
                 Expert in building organizer modules, ticket management, and
@@ -195,12 +187,8 @@ const About = () => {
             </div>
             {/* Team Member 3 */}
             <div className="bg-gray-800 p-6 rounded-lg shadow-md hover:scale-105 hover:shadow-lg transition transform duration-300 text-center">
-              <img
-                src="../images/faizan.png"
-                alt="Team Member"
-                className="rounded-full w-32 h-32 mx-auto mb-4"
-              />
-              <h4 className="text-2xl font-bold">Faizan Rasheed</h4>
+              
+              <h4 className="text-2xl font-bold">Maaz Khalid</h4>
               <p className="text-yellow-300">Admin & Vendor Expert</p>
               <p className="mt-2">
                 Focuses on creating vendor management systems and ensuring
